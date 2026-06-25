@@ -1,6 +1,6 @@
 # zxelda
 ## Info ##
-The original _[The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))_ game for the [Famicom Disk System](https://en.wikipedia.org/wiki/Famicom_Disk_System) ported over the [ZX Spectrum (48k)](https://en.wikipedia.org/wiki/ZX_Spectrum) (ASM version). Made by [esparade](https://github.com/esparade).
+The original _[The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))_ game for the [Famicom Disk System](https://en.wikipedia.org/wiki/Famicom_Disk_System) ported over the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) (ASM version). Made by [esparade](https://github.com/esparade).
 
 ### Controls ###
 | Default Keys |           |
